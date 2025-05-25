@@ -8,8 +8,15 @@ display an episode list in a sidebar and a responsive grid of character images.
 - Fully typed, uses **@tanstack/react-query** for caching/fetch, Tailwind CSS for styling
 - Mobile-friendly CSS grid
 
-## Quick start
+## Clone & run locally
 ```bash
-npm install
+# 1. Clone the repository (replace <your-username> with your GitHub handle or fork URL)
+git clone https://github.com/MohdKamranAlam/rick-and-morty-image-feed.git
+cd rick-and-morty-image-feed
+
+# 2. Install dependencies
+npm install   
+
+# 3. Start the dev server
 npm run dev
-# open http://localhost:3000
+# open http://localhost:3000 in your browser
