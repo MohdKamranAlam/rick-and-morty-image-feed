@@ -1,0 +1,7 @@
+.item {
+  @apply px-3 py-1 rounded mb-1 cursor-pointer border border-gray-400 hover:bg-gray-100 transition;
+}
+
+.active {
+  @apply border-2 border-blue-600 bg-blue-50 font-semibold;
+}
